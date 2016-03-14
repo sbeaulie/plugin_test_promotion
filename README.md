@@ -1,3 +1,3 @@
 # plugin_test_promotion
 
-v1
+v1.2
